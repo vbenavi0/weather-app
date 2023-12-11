@@ -1,0 +1,1 @@
+console.log('Client JS file is loaded!')
